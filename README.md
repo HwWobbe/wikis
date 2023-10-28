@@ -3,5 +3,5 @@
   - Perhaps repository should be deleted.
     -  linkToCandidates:
       - DiigoH
-      - tagFrequencyCount Table still seems broken
+        - tagFrequencyCount Table still seems broken
 - ...
