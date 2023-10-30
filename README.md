@@ -4,5 +4,6 @@
     -  linkToCandidates:
       - DiigoH
         - tagFrequencyCount Table still seems broken
+          - it's cummulative filters are still very useful
 - ...
 * https://github.com/HwWobbe
