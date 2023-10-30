@@ -6,4 +6,6 @@
         - tagFrequencyCount Table still seems broken
           - it's cummulative filters are still very useful
 - ...
-* https://github.com/HwWobbe
+
+### EdD considerations:
+- https://github.com/HwWobbe
